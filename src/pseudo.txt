@@ -1,0 +1,4 @@
+a conditional where a dog image, it will show the image element,
+if no image then no dog. 
+
+if dogimage.length

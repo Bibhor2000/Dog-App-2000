@@ -1,2 +1,5 @@
 Reference for passing function as props:
 https://bobbyhadz.com/blog/react-pass-function-as-prop#:~:text=Define%20the%20function%20in%20the,function%20in%20the%20child%20component.
+
+Help was also received by Katharyn and Hayk:
+Usage of async functions
